@@ -1,6 +1,7 @@
-# ⭐️ Full Programming Basics Course with Code Examples and Comments
+# ⭐️ Full Ruby Programming Basics Course with Code Examples and Comments
+This repository contains practical, well-commented Ruby code examples for each topic covered in a complete beginner-level programming course. Each topic is organized into its own folder and includes explanatory comments for educational purposes.
 
-This repository contains practical, well-commented code examples for each topic covered in a complete beginner-level programming course. Each topic is organized into its own folder and includes explanatory comments for educational purposes.
+
 
 ---
 
