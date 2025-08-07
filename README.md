@@ -23,19 +23,19 @@ Folder names follow the format `Topic_Name_in_Ruby` based on the course order.
 
 | #  | Topic Title                     | Folder Name                    |
 |----|--------------------------------|--------------------------------|
-| 1  | Hello World                    | `Hello_World_in_Ruby/`         |
-| 2  | Drawing a Shape                | `Hello_World_in_Ruby/`         |
-| 3  | Variables                      | `Variables_in_Ruby/`           |
-| 4  | Data Types                     | `Data_Types_in_Ruby/`          |
-| 5  | Working With Strings           | `Data_Types_in_Ruby/`          |
-| 6  | Math & Numbers                 | `Data_Types_in_Ruby/`          |
-| 7  | Getting User Input             | `Getting_User_Input_in_Ruby/`  |
-| 8  | Building a Calculator          | `Calculator_in_Ruby/`          |
-| 9  | Building a Mad Libs Game       | `Mad_Libs_Game_in_Ruby/`       |
-|10  | Arrays                         | `Arrays_in_Ruby/`              |
-|11  | Hashes                         | `Hashes_in_Ruby/`              |
-|12  | Methods                        | `Methods_in_Ruby/`             |
-|13  | Return Statement               | `Return_Statement_in_Ruby/`    |
+| 1  | Hello World                    | `Hello_World_in_Ruby/`         |✅
+| 2  | Drawing a Shape                | `Hello_World_in_Ruby/`         |✅
+| 3  | Variables                      | `Variables_in_Ruby/`           |✅
+| 4  | Data Types                     | `Data_Types_in_Ruby/`          |✅
+| 5  | Working With Strings           | `Data_Types_in_Ruby/`          |✅
+| 6  | Math & Numbers                 | `Data_Types_in_Ruby/`          |✅
+| 7  | Getting User Input             | `Getting_User_Input_in_Ruby/`  |✅
+| 8  | Building a Calculator          | `Calculator_in_Ruby/`          |✅
+| 9  | Building a Mad Libs Game       | `Mad_Libs_Game_in_Ruby/`       |✅
+|10  | Arrays                         | `Arrays_in_Ruby/`              |✅
+|11  | Hashes                         | `Hashes_in_Ruby/`              |✅
+|12  | Methods                        | `Methods_in_Ruby/`             |✅
+|13  | Return Statement               | `Return_Statement_in_Ruby/`    |✅
 |14  | If Statements                  | `If_Statements_in_Ruby/`       |
 |15  | If Statements (continued)      | `If_Statements_2_in_Ruby/`     |
 |16  | Better Calculator              | `Better_Calculator_in_Ruby/`   |
